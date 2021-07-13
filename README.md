@@ -4,7 +4,7 @@
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
   <samp>
-I am a Final Year Student at Lovely Professional University currently undertaking my Bachelors in Computer Science and Engineering. 
+    I am a Final Year Student at Lovely Professional University in Bachelors of Computer Science and Engineering. 
   </samp><br><br>
   <samp>
   <img src="https://komarev.com/ghpvc/?username=imbhavesh28" alt="imbhavesh28" /> 
