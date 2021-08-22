@@ -20,13 +20,6 @@
   <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-<a href="https://github.com/imbhavesh28">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbhavesh28&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/imbhavesh28">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=imbhavesh28&show_icons=true&theme=light&line_height=27" alt="Bhavesh's github stats"/>
-</a>
-
 <h2 align="center">📫 Reach Out To Me On</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/imbhavesh28"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
