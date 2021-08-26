@@ -7,8 +7,7 @@
     I am a Final Year Student at Lovely Professional University in Bachelors of Computer Science and Engineering. Recently, I got honoured as a Gold Microsoft Learn Student Ambassador.
 I was a Community Lead at Google Developer Student Club - LPU Lead for the Session 2020-21.
 Additionally, I was selected as Google Cloud Career Readiness Mentor by Google Cloud. Only 48 students have been selected from all over India.
-
-  </samp><br><br>
+</samp><br><br>
   <samp>
   <img src="https://komarev.com/ghpvc/?username=imbhavesh28" alt="imbhavesh28" /> 
 </p>
